@@ -1,5 +1,3 @@
-Tohar Tsvitman
-ID: 318192838
 
 The program implement a simple  shell in c language under the operating system.
 the program show the user the prompt line, in pattern of "(user name)@(current folder path)>".
